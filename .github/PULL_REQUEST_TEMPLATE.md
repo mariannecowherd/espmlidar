@@ -1,8 +1,8 @@
 # Pull request template
 Here is a description
 
-# List
-1. write it
-2. submit it
+# Checklist
+- [ ] write it
+- [ ] submit it
 
-[here is a comment]
+<|-- here is a comment
